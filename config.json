@@ -1,0 +1,21 @@
+{
+  "origin": "CLT",
+  "destinations": {
+    "LGA": "New York (LaGuardia)",
+    "BOS": "Boston",
+    "MCO": "Orlando",
+    "MIA": "Miami",
+    "DEN": "Denver",
+    "LAS": "Las Vegas",
+    "LAX": "Los Angeles",
+    "CUN": "Cancún"
+  },
+  "days_ahead": [21, 45, 75],
+  "max_stops": 1,
+  "deal_threshold": 0.20,
+  "target_prices": {
+    "LGA": 90,
+    "MCO": 80,
+    "CUN": 250
+  }
+}
